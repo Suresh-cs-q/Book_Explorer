@@ -25,8 +25,6 @@ The application consists of three main screens:
 - **Activities:** Implements three main Activity classes for screen control
 - **Navigation:** Implements proper Intent-based navigation with data passing
 
-## Screenshots
-[Screenshots will be added by the student]
 
 ## Special Instructions
 - The application is designed to run on Android 5.0 (API level 21) and above
