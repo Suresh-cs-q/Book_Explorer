@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Book Explorer</string>
+    <string name="welcome_message">Welcome to Book Explorer! This app helps you explore a collection of interesting books. Browse through our catalog and discover detailed information about each book.</string>
+    <string name="explore_books">Explore Books</string>
+    <string name="about">About</string>
+    <string name="about_message">Book Explorer v1.0\nA simple app to explore books.</string>
+    <string name="book_collection">Book Collection</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="back_to_book_list">Back to Book List</string>
+    <string name="author_label">Author: </string>
+    <string name="year_label">Year: </string>
+    <string name="category_label">Category: </string>
+    <string name="description_label">Description:</string>
+</resources>
